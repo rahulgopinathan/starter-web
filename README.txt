@@ -8,3 +8,5 @@ git config
 
 Deployemet
 
+:Deployemnt is added
+zefa
