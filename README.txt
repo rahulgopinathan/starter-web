@@ -3,6 +3,7 @@ The file is for Git Comp
 
 Git Intro
 
+:Intro is added into the Git Intro
 git config
 
 Deployemet
