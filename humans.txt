@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -Rahul G- <role> -- <twitter>
+    <name> -Rahul G- Role in the master branch <role> -- <twitter>
 
 # THANKS
 
