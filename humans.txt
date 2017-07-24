@@ -3,13 +3,15 @@
 
 # TEAM
 
+SIMPLE-BRANCH CHECKOUT
+
     <name> -Rahul G- <role> -- <twitter>
 
 # THANKS
 
     <name>
 
-# TECHNOLOGY COLOPHON
+# TECHNOLOGY COLOPHON 
 
     HTML5, CSS3
     jQuery, Modernizr
