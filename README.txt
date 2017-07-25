@@ -1,4 +1,5 @@
 The file edited
+Edition for rebase
 
 Adding a file fr rebasing
 .......................
