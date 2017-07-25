@@ -11,3 +11,5 @@ Deployemet
 
 :Deployemnt is added
 zefa
+
+All rights
