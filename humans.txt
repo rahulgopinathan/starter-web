@@ -1,4 +1,6 @@
-This edit is done from feature branch in 1st place
+
+
+The edit before stashing
 
 
 # humanstxt.org/
