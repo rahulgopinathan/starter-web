@@ -1,6 +1,6 @@
 The file edited
 
-
+Adding a file fr rebasing
 .......................
 The file is for Git Comp
 
