@@ -1,6 +1,6 @@
 The file edited
 Edition for rebase
-
+More data after rebase
 Adding a file fr rebasing
 .......................
 The file is for Git Comp
