@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!.. Copyright b perfo ..!>
+
+
+<<<<<<< HEAD
+<head>or conflicting for the people
+	<title>Branching for the good exaple</title>
+=======
+<head>or conflicting fot thr
+	<title>Branching may be</title>
+>>>>>>> Adding some data in the big branch
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+<<<<<<< HEAD
+	<link rel="stylesheet my be changed, y not" href="css/bootstrap-theme.min.css">
+=======
+	<link rel="stylesheet my be changed not be" href="css/bootstrap-theme.min.css">
+>>>>>>> Adding some data in the big branch
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			Just some content can be anything for fun
+=======
+			Just some content can be anything or be nothing
+>>>>>>> Adding some data in the big branch
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Company 2014</p>
+	</footer>
+</body>
+</html>
